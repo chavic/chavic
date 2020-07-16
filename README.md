@@ -6,6 +6,7 @@ I write:sparkles:**code**:sparkles:.
 
 Well I can write Kotlin/Java, Dart, 
 JavaScript/NodeJs, C# and python.
+
 I taught myself everything I know about computers 
 and how to code. 
 I actually know more programing languages but those are the ones I used 
