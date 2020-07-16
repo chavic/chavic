@@ -7,4 +7,7 @@ I write:sparkles:**code**:sparkles:.
 Well I can write Kotlin/Java, Dart, 
 JavaScript/NodeJs, C# and python.
 I taught myself everything I know about computers 
-and how to code.
+and how to code. 
+I actually know more but those are the ones I used 
+in my projects. Technically typescript isn't a
+language but I use it all the time.
