@@ -1,3 +1,3 @@
 ## Hi there👋
 
-I write:sparkles:**code**:sparkles:.
+I can write Kotlin/Java, Dart, JavaScript/TypeScript/NodeJs, C# and python.
