@@ -1,6 +1,7 @@
 ## Hello there👋
 
-I like to build applications, websites and mobile apps.
+I use various tools and programming languages to build mobile, desktop and server-side software.
+I'm basically an explorer developer but the majority of my projects are web and mobile related.
 
 ### Languages and Tools:
 
