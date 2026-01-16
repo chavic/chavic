@@ -1,6 +1,6 @@
 # Victor Chabunda (chavic)
 
-Full Stack Dev, Rust & systems engineer building Bitcoin tooling, AI & decision systems, <Time2Dev> Special Prize Winner 🏆.
+Full Stack Dev, Rust & systems engineer building Bitcoin tooling, AI & decision systems, \</Time2Dev\> Special Prize Winner 🏆.
 
 ---
 
